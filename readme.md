@@ -7,28 +7,28 @@ Laura Santhanam and Vanessa Dennis of PBS created a dataset of responses by witn
 
 ## Dataset Codebook
 
-- Variables:
-    - witness:
+- **Variables**:
+    - **witness**:
         - String variable. Identifying the witness statement
-    - interview_number:
+    - **interview_number:**
         - Integer variable. Denoting the interview number, in cases where a witness was interviewed multiple times.
-    - date:
+    - **date:**
         - datetime variable. Denoting the date of the interview.
-    - did MB charge at police car or police officer:
+    - **did MB charge at police car or police officer:**
         - Categorical variable. Coded yes, no, don't know, and NaN based on the witness statement's response to questions. In cases of NaN, it is assumed the witness was not asked that question.
-    - did mb reach into or otherwise directly interacted with police car:
+    - **did mb reach into or otherwise directly interacted with police car:**
         - Categorical variable. Coded yes, no, don't know, and NaN based on the witness statement's response to questions. In cases of NaN, it is assumed the witness was not asked that question.
-    - did dw fire gun repeatedly at mb while mb was down:
+    - **did dw fire gun repeatedly at mb while mb was down:**
         - Categorical variable. Coded yes, no, don't know, and NaN based on the witness statement's response to questions. In cases of NaN, it is assumed the witness was not asked that question.
-    - did mb put his hands at his waist:
+    - **did mb put his hands at his waist:**
         - Categorical variable. Coded yes, no, don't know, and NaN based on the witness statement's response to questions. In cases of NaN, it is assumed the witness was not asked that question.
-    - did mb face dw when fired upon:
+    - **did mb face dw when fired upon:**
         - Categorical variable. Coded yes, no, don't know, and NaN based on the witness statement's response to questions. In cases of NaN, it is assumed the witness was not asked that question.
-    - was mb running away from dw when fired upon:
+    - **was mb running away from dw when fired upon:**
         - Categorical variable. Coded yes, no, don't know, and NaN based on the witness statement's response to questions. In cases of NaN, it is assumed the witness was not asked that question.
-    - was mb kneeling when fired upon:
+    - **was mb kneeling when fired upon:**
         - Categorical variable. Coded yes, no, don't know, and NaN based on the witness statement's response to questions. In cases of NaN, it is assumed the witness was not asked that question.
-    - did mb put hands up when fired upon:
+    - **did mb put hands up when fired upon:**
         - Categorical variable. Coded yes, no, don't know, and NaN based on the witness statement's response to questions. In cases of NaN, it is assumed the witness was not asked that question.
-    - how many shots were fired:
+    - **how many shots were fired:**
         - String variable. Denoting the responses of witness statements.
